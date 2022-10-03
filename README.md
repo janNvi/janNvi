@@ -1,5 +1,5 @@
 # 💫 About Me:
-Mostly backend dev, although I'm technically working fullstack.<br>Mostly using Java, currently learning Spring. <br>Planning to learn some more frontend stuff in the future (want to look into React I guess).
+Mostly backend dev, although I'm technically working fullstack.<br>Mostly using Java and SQL. <br>Planning to learn some more frontend stuff in the future (want to look into React I guess).
 
 
 ## 🌐 Socials:
